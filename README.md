@@ -24,6 +24,14 @@ The `RadonImplementation_ImageFixed.m` script illustrates the scenario where the
 
 Both scripts utilize MATLAB's built-in functions for performing line integrals and generating Radon projections. They provide a practical demonstration of how the Radon transform can be applied in real-world scenarios.
 
+## Result
+
+<p float="left">
+  <img src="Images/RadonImplementation_DetectorsFixed.png" width="200" />
+  <img src="Images/RadonImplementation_ImageFixed.png" width="200" />
+  <img src="Images/Difference.png" width="200" />
+</p>
+
 ## Usage
 
 To use the scripts:
