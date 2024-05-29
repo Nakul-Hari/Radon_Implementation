@@ -27,9 +27,9 @@ Both scripts utilize MATLAB's built-in functions for performing line integrals a
 ## Result
 
 <p float="left">
-  <img src="Images/RadonImplementation_DetectorsFixed.png" width="200" />
-  <img src="Images/RadonImplementation_ImageFixed.png" width="200" />
-  <img src="Images/Difference.png" width="200" />
+  <img src="Images/RadonImplementation_DetectorsFixed.png" width="30%" />
+  <img src="Images/RadonImplementation_ImageFixed.png" width="30%" />
+  <img src="Images/Difference.png" width="30%" />
 </p>
 
 ## Usage
