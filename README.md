@@ -26,10 +26,10 @@ Both scripts utilize MATLAB's built-in functions for performing line integrals a
 
 ## Result
 
-<p float="left">
+<p float="centre">
   <img src="Images/RadonImplementation_DetectorsFixed.png" width="32%" />
   <img src="Images/RadonImplementation_ImageFixed.png" width="32%" />
-  <img src="Images/Difference.png" width="34%" />
+  <img src="Images/Difference.png" width="33%" />
 </p>
 
 ## Usage
